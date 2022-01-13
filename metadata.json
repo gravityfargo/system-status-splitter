@@ -1,0 +1,10 @@
+{
+  "name": "System Status Splitter",
+  "uuid": "system-status-splitter@rmrfforewardslashstar",
+  "description": "Seperate all the things.",
+  "version": 1,
+  "shell-version": [
+    "3.38"
+  ],
+  "url": "https://github.com/rmrfforewardslashstar/System-Status-Splitter"
+}
